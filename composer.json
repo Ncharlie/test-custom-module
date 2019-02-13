@@ -1,0 +1,7 @@
+{
+  "name": "test/test-custom-module",
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
