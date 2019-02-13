@@ -1,5 +1,5 @@
 {
-  "name": "test/test-custom-module",
+  "name": "test/testcustommodule",
   "config": {
     "preferred-install": "dist"
   },
